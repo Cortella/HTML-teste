@@ -5,3 +5,16 @@ body{
 h1{
 	color:#FF0000;
 }
+
+img{
+    width: 200px;
+}
+.teste{
+    width: 500px;
+}
+#titulo{
+    font-size: 12px;
+}
+.teste2{
+    background-color: #FFFF00;
+}
