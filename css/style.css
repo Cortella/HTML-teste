@@ -1,6 +1,7 @@
 body{
 	background-color: #0000FF;
 	color: #FFFFFF;
+    margin: 0;
 }
 h1{
 	color:#FF0000;
@@ -17,4 +18,13 @@ img{
 }
 .teste2{
     background-color: #FFFF00;
+}
+.destaque{
+    font-size: 100px;
+}
+.div{
+    color: black
+    width: 300px;
+    height: 300px;
+    background-color: antiquewhite;
 }
